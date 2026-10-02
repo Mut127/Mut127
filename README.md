@@ -17,22 +17,10 @@ I build full-stack web applications, REST APIs, and AI-integrated systems, from 
 
 ## 🌷 What I Do
 
-- 🎓 **Education**: B.Sc. Informatics, Unsoed (graduated June 2026)
+- 🎓 **Education**: S.Kom. Informatics, Unsoed (graduated June 2026)
 - 🏛️ **Experience**: Backend Developer Intern @ Diskominfo Tasikmalaya & Data Scientist Intern @ BPS Tasikmalaya
 - 🛠️ **Building**: Laravel, Node.js/Express, React, and AI API (Gemini, OpenRouter) projects
-- 🏆 **Achievements**: Finalist PKM Rector Cup IV (2024), 1st Place LIDM campus-level selection (2024)
-- 💼 **Open to**: Backend / Full-Stack Developer opportunities
-
-![](divider.svg)
-
-## 🌼 Featured Projects
-
-- 🩺 **Mini Clinic Information System**: Full-stack clinic system with JWT auth, role-based access (Admin, Doctor, Registration Officer), queue generation, and SOAP medical records. `React` `Express` `PostgreSQL`
-- 📝 **driftnotes**: Note-taking app with AI-powered auto-summary and tags. `Node.js` `Supabase` `OpenRouter API`
-- 🤖 **KBLI Classification Chatbot**: Chatbot for MSME owners using IndoBERT (95% top-3 accuracy) + Gemini API for BPS Tasikmalaya. `Python` `Flask`
-- 🏢 **Employee Management System (ERP)**: HR system with leave, attendance, and performance evaluation. `Laravel` `MySQL`
-- 🏛️ **SIMPAN**: Government knowledge management system for Diskominfo Tasikmalaya. `Laravel 11` `Livewire`
-- 👵 **Golden Activities**: Platform for keeping elderly users active, built for S-TECH 2024. `Laravel`
+- 💼 **Open to**: Backend / Full-Stack Developer / Software Engineer opportunities
 
 ![](divider.svg)
 
@@ -61,13 +49,3 @@ I build full-stack web applications, REST APIs, and AI-integrated systems, from 
 
 ![](divider.svg)
 
-## 💜 GitHub Stats
-
-<div align="center">
-
-![Muthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mut127&show_icons=true&include_all_commits=true&hide_border=false&bg_color=FFF8FB&border_color=F8BBD0&title_color=C98BB9&text_color=7A5C8E&icon_color=8FCFA6&ring_color=AEDDF5)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mut127&layout=compact&bg_color=FFF8FB&border_color=D4C1F0&title_color=C98BB9&text_color=7A5C8E)
-
-![Profile views](https://komarev.com/ghpvc/?username=Mut127&label=Profile%20views&color=D4C1F0&style=flat)
-
-</div>
